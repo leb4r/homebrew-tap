@@ -1,8 +1,8 @@
 class Semtag < Formula
   desc "Tag your repository according to Semantic Versioning"
   homepage "https://github.com/leb4r/semtag"
-  url "https://github.com/leb4r/semtag/archive/v0.0.0.tar.gz"
-  sha256 "a7e5e8bae5287e8b64e9da5356c4f2a289ab75645b14108c70291f72d0a9c138"
+  url "https://github.com/leb4r/semtag/archive/v0.0.1.tar.gz"
+  sha256 "9bf9e727f5817f8e905c28ca7df6ca142ada72e4151616bcc3571495f851ba3c"
   license "MIT"
   head "https://github.com/leb4r/semtag.git"
 
